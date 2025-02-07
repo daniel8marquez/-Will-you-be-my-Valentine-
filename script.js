@@ -1,12 +1,7 @@
 const messages = [
     "¿Estás segura, Bugaboo? 🥺",
-    "¿Segurísima?? 😢",
     "Piénsalo bien... 👀",
     "Bugaboo, por favor... 🥹",
-    "No me hagas esto 💔",
-    "Si dices que no, me pondré muy triste... 😭",
-    "Muy muy triste... 😔",
-    "Demasiado triste... 🥀",
     "Está bien,Yenny... 😞",
     "Mentira, ¡di que sí! ❤️"
 ];
